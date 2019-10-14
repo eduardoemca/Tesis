@@ -1,0 +1,12 @@
+-eliminar la relacion entre la tabla iva y producto --> LISTO
+-eliminar el campo porcentaje iva de la tabla producto --> LISTO
+-agregar un campo cerrar a la tabla compra, con la finalidad de permitir cerrarla e indicar que la orden de compra fue cerrada, a pesar de tener reglones pendientes --> LISTO
+-al agregar un producto en la compra debe blanquear el campo precio --> PENDIENTE
+-permitir que el campo precio acepte decimales --> PENDIENTE
+-al momento de ingresar los productos de una compra, colocar un buscador de las ordenes de compras pendientes por ingresar, actualmente el usuario introduce los datos --> VERIFICAR
+-Eliminar la tabla rif y colocarlo como atributo de las taablas proveedor y cliente --> LISTO
+-Eliminar la tabla Unidad y colocarla como atributo de producto --> JUSTIFICAR
+-El campo  Precio unitario actual deberia estar en la tabla producto, Precio igual --> NO SE QUE QUISO DECIR
+-Eliminar las tablas inventario Producto e inventario --> LISTO
+-Eliminar las tablas temporales del diagrama MER --> LISTO
+-Permitir la venta a pesar de caer por debajo del stock mìnimo, notificando por el producto que cayo por debajo de la cantidad minima permitida. --> LISTO

@@ -1,0 +1,137 @@
+*{
+	/*font-family: 'Roboto', sans-serif;*/
+}
+body
+{
+	background: #0d6d92;
+}
+
+.form-group 
+{
+    margin-bottom: 0px;
+}
+
+.panel-success
+{
+	padding-top: 10px;
+    padding-left: 5%;
+    padding-right: 5%;
+    border-color: rgba(1,1,1,0);
+    background: rgba(1,1,1,0);
+}
+
+#modal-tabla
+{
+	width: 90%;
+}
+
+.form-control.cajacodigo
+{
+	width: 100px;
+}
+
+.form-control.cajanombre
+{
+	width: 200px;
+}
+
+.form-control.combocategoria
+{
+	width: 120px;
+}
+
+.margen
+{
+	margin-left: 25px;
+	margin-right: -24px;
+}
+
+.margen-modal
+{
+	margin-left: 15px;
+	margin-right: 14px;
+}
+
+.form-control.cajaunidad
+{
+	width: 100px;
+}
+
+.form-control.unidad
+{
+	width: 120px;
+}
+
+.contenedor-tablas
+{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.btn-producto
+{
+	width: 100%;
+	margin: 8px;
+}
+
+.div-botones
+{
+	padding: 10px;
+}
+
+.panel-footer
+{
+	display: flex;
+	flex-wrap: wrap;
+	background-color: #f5f5f500; 
+    border-top: 1px solid #f5f5f500; 
+	margin-top: 15px;
+	background: white;
+}
+
+.panel-primary>.panel-heading
+ {
+    color: #fff;
+    background: linear-gradient(0deg, #3c8dbc 100%, #00c0ef 100%);
+    border-color: #337ab7;
+}
+
+.panel-heading
+{
+	color: #fff;
+    background: linear-gradient(0deg, #3c8dbc 100%, #00c0ef 100%);
+    border-color: #337ab7;
+}
+
+.img
+{
+	width: 150px;
+	height: 150px;
+	transition:1s;
+}
+
+.img:hover{
+	transform: scale(1.1);
+}
+
+.img .class-img-responsive
+{
+	width: 100%;
+}
+
+.panel-primary
+{
+     border-color: rgba(1,1,1,0);
+     box-shadow: 2px 2px 10px #3c8dbc; 	
+}
+
+.input-group-addon:first-child
+{
+    background: linear-gradient(0deg, #1398cc 10%, #0d6d92 100%);
+    color: white;
+}
+
+.table.table-bordered.table-hover.tablab tr th
+{
+	background: linear-gradient(0deg, #0ed2a2 10%, #0d9271 100%);
+}
